@@ -42,7 +42,7 @@ Contains scripts for initial data preparation.
 
 ### `2_PMW_LST_Reconstruction/`
 * `PMW_LST_Reconstruction_OnlyERA5_Dekad.py`: Fills orbital gaps in PMW LST using ERA5 constraints.
-* `CDF_matching.py`: **[Start here for the Toy Dataset]** Corrects the variance compression in the reconstructed PMW baseline to match the thermal infrared distribution.
+* `CDF_matching.py`: **[Start here for the Sameple Dataset]** Corrects the variance compression in the reconstructed PMW baseline to match the thermal infrared distribution.
 * `CDF_Validation.py`: Validates the CDF-corrected output.
 
 ### `3_PMW_LST_Downscale/`
